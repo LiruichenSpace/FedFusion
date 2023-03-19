@@ -1,4 +1,4 @@
-# FedProb Source
+# FedFusion Source
 
 PyTorch Implementation of CVPR2023 paper [Federated Learning with Data-Agnostic Distribution Fusion]
 
