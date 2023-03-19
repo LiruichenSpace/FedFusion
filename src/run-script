@@ -1,0 +1,1 @@
+nohup python3 -u federated_main.py --model=cnn --dataset=cifar --num_users=20 --frac=0.8 --iid=0 --epochs=230 --local_ep=1 --average=1 --gpu=0 > save/process_fed_iid_cifar_0_8_1_1.txt &
